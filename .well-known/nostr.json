@@ -1,5 +1,4 @@
   {
-  add_header 'Access-Control-Allow-Origin' '*';
   "names": {
     "pookie": "151a39766058a6e14b27c6d61eb56c961878515cdc8e4cb715412a888371e9cd"
   }
